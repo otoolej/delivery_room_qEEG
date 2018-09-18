@@ -15,6 +15,26 @@ github](https://github.com/otoolej/qEEG_feature_set)); see reference [1] for mor
   variable file. Will open in Excel (or equivalent).
 - `LICENCE.md`: terms of use.
 
+Brief description of each feature:
+
+| column name                  | description                                           |
+| ---------------------------- | ----------------------------------------------------- |
+| spectral_power__1\_          | spectral power (delta band = 0.5 to 4 Hz)             |
+| spectral_power__2\_          | spectral power (theta band = 4 to 7 Hz)               |
+| spectral_power__3\_          | spectral power (alpha band = 7 to 13 Hz)              |
+| spectral_power__4\_          | spectral power (beta band = 13 to 30 Hz)              |
+| spectral_relative_power__1\_ | relative spectral power (for each band)               |
+| spectral_relative_power__2\_ |                                                       |
+| spectral_relative_power__3\_ |                                                       |
+| spectral_relative_power__4\_ |                                                       |
+| spectral_edge_frequency      | frequency (Hz) below which 95% spectral power resides |
+| FD                           | fractal dimension (using Higuchi method)              |
+| rEEG_median                  | median rEEG (rEEG similar to aEEG)                    |
+| rEEG_lower_margin            | lower margin (5th percentile) of rEEG                 |
+| rEEG_upper_margin            | upper margin (95th percentile) of rEEG                |
+| rEEG_asymmetry               | symmetry between upper, lower, and median rEEG        |
+
+
 
 # References
 1. JM O’Toole and GB Boylan (2017). NEURAL: quantitative features for newborn EEG using

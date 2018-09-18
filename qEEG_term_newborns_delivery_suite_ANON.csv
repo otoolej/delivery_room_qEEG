@@ -1,4 +1,4 @@
-baby_ID,spectral_power(#1),spectral_power(#2),spectral_power(#3),spectral_power(#4),spectral_relative_power(#1),spectral_relative_power(#2),spectral_relative_power(#3),spectral_relative_power(#4),spectral_edge_frequency,FD,rEEG_median,rEEG_lower_margin,rEEG_upper_margin,rEEG_asymmetry
+baby_ID,spectral_power__1_,spectral_power__2_,spectral_power__3_,spectral_power__4_,spectral_relative_power__1_,spectral_relative_power__2_,spectral_relative_power__3_,spectral_relative_power__4_,spectral_edge_frequency,FD,rEEG_median,rEEG_lower_margin,rEEG_upper_margin,rEEG_asymmetry
 1,634.307,34.31,21.8508,6.74982,0.857957,0.0666086,0.0507019,0.0174034,7.40625,1.08144,54.6868,29.6829,190.661,0.619397
 2,191.764,9.76901,4.72266,2.6939,0.897815,0.0556356,0.0292821,0.01846,5.21875,1.0824,29.8493,15.0246,99.164,0.67088
 3,1405.39,12.5184,8.26846,7.50877,0.981877,0.0102705,0.00525393,0.00471137,2,1.12123,34.0406,21.3886,134.477,0.780884
