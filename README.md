@@ -10,6 +10,10 @@ Function in Newborn Infants Immediately After Birth, 2018, under review.`
 Features are generated using NEURAL (version 0.3.4; [code on
 github](https://github.com/otoolej/qEEG_feature_set)); see reference [1] for more details.
 
+
+This version is archived on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1453326.svg)](https://doi.org/10.5281/zenodo.1453326)
+
+
 # Files
 - `qEEG_term_newborns_delivery_suite_ANON.csv`: feature set as comma-separated
   variable file. Will open in Excel (or equivalent).
