@@ -21,7 +21,7 @@ This version is archived on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281
   variable file. Will open in Excel (or equivalent).
 - `LICENCE.md`: terms of use.
 
-Brief description of each feature:
+Brief description of each feature (see [1] for more details):
 
 | column name                  | description                                           |
 | ---------------------------- | ----------------------------------------------------- |
